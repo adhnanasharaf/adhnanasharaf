@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhnan</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">AI ML Engineer | Full stack Engineer</h3>
 
 - 🔭 I’m currently working on [wanderAI_AI_Agent_Travel_planner](https://github.com/adhnanasharaf/wanderAI_AI_Agent_Travel_planner)
 
