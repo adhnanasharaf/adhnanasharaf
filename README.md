@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ADHNAN</h1>
 <h3 align="center">AI ML Engineer | Full Stack Engineer</h3>
 
-- 🔭 I’m currently working on [wanderAI_AI_Agent_Travel_planner](https://github.com/adhnanasharaf/wanderAI_AI_Agent_Travel_planner)
+- I’m currently working on [wanderAI_AI_Agent_Travel_planner](https://github.com/adhnanasharaf/wanderAI_AI_Agent_Travel_planner)
 
-- 👯 I’m looking to collaborate on **LLM Open Source**
+- I’m looking to collaborate on **LLM Open Source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adhnanasharaf?tab=repositories](https://github.com/adhnanasharaf?tab=repositories)
+- All of my projects are available at [https://github.com/adhnanasharaf?tab=repositories](https://github.com/adhnanasharaf?tab=repositories)
 
-- 📫 How to reach me **adhnanasharaf567@gmail.com**
+- How to reach me **adhnanasharaf567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
