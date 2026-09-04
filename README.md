@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adhnan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [ebook_classification for calibre](https://github.com/adhnanasharaf/Ebook_classification)
-
-- 🌱 I’m currently learning **LLM Based software and DevOps**
+- 🔭 I’m currently working on [wanderAI_AI_Agent_Travel_planner](https://github.com/adhnanasharaf/wanderAI_AI_Agent_Travel_planner)
 
 - 👯 I’m looking to collaborate on **LLM Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adhnanasharaf?tab=repositories](https://github.com/adhnanasharaf?tab=repositories)
 
-- 💬 Ask me about **MERN , Flutter , React**
-
 - 📫 How to reach me **adhnanasharaf567@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/djfffawlah](https://flowcv.com/resume/djfffawlah)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
