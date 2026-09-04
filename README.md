@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adhnan</h1>
+<h1 align="center">Hi 👋, I'm ADHNAN</h1>
 <h3 align="center">AI ML Engineer | Full Stack Engineer</h3>
 
 - 🔭 I’m currently working on [wanderAI_AI_Agent_Travel_planner](https://github.com/adhnanasharaf/wanderAI_AI_Agent_Travel_planner)
